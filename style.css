@@ -1,1 +1,18 @@
-p { background-color: red; }
+.otsikot {
+color: #B40404;
+}
+#paaotsikko {
+color: blue;
+}
+.leipateksti {
+color: #B40404;
+}
+#jatkuu {
+color: red;
+}
+ul {
+  color: #F781D8
+}
+ol {
+  color: #F781D8;
+}
